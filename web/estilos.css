@@ -1,0 +1,24 @@
+#reclamoTxt {
+    height: 200px;
+    width: 80%;
+    display: block;
+}
+
+section {
+    width: 50%;
+    border: 1px solid silver;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#reclamarBtn {
+    margin-top: 15px;
+}
+
+
+
